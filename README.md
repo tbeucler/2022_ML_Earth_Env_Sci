@@ -1,2 +1,4 @@
-# 2022_ML_Earth_Env_Sci
-Lab materials for the UNIL Spring 2022 course on Machine Learning for Earth and Environmental Sciences
+# Machine Learning for Earth and Environmental Sciences (UNIL, Spring 2022)
+- Google Collab notebooks for weekly labs `/Lab_Notebooks`
+- Slides for weekly lectures `/Slides`
+- Students' final projects `/Projects'
